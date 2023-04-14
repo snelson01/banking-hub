@@ -1,0 +1,11 @@
+Customer Address verification includes a powerful address verification tool that helps minimize identity fraud by comparing an applicant's personal identification information against public record databases to flag inconsistencies. 
+
+The customer address verification API makes it possible to authenticate new customers address information before they open an account. The customer address verification API can be also used to validate existing customers address information. 
+
+Who is it for: Developers creating or integrating apps that need an address and authentication service.
+
+How is it used: Employ the Customer Address Verification API to verify an applicants personal information with public record databases to authenticate a customers address information. 
+
+Begin the integration with following address verification service domain in API Explorer:
+
+Address verification
