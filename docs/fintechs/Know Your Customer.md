@@ -1,4 +1,4 @@
-# Know Your Customer 
+# Customer Identity Verificaiton 
 
 KYC is a standard due diligence process used by financial institutions and other financial services companies to assess and monitor customer risk and verify a customer's identity and ensures that a customer is who they say they are.   
 
